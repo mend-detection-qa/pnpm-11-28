@@ -1,0 +1,10 @@
+{
+  "name": "force-ignore-platform-probe",
+  "version": "1.0.0",
+  "description": "pnpm probe: forceIgnoresPlatform (pnpm 11.28)",
+  "private": true,
+  "dependencies": {
+    "esbuild": "0.24.2"
+  },
+  "packageManager": "pnpm@11.28.0"
+}
