@@ -1,0 +1,328 @@
+{
+  "generated_at": "2026-09-25T11:02:42Z",
+  "packages": {
+    "@esbuild/aix-ppc64": {
+      "dependencies": [],
+      "group": "main",
+      "optional": true,
+      "source": "registry",
+      "source_detail": {
+        "cpu": ["ppc64"],
+        "os": ["aix"]
+      },
+      "version": "0.24.2"
+    },
+    "@esbuild/android-arm": {
+      "dependencies": [],
+      "group": "main",
+      "optional": true,
+      "source": "registry",
+      "source_detail": {
+        "cpu": ["arm"],
+        "os": ["android"]
+      },
+      "version": "0.24.2"
+    },
+    "@esbuild/android-arm64": {
+      "dependencies": [],
+      "group": "main",
+      "optional": true,
+      "source": "registry",
+      "source_detail": {
+        "cpu": ["arm64"],
+        "os": ["android"]
+      },
+      "version": "0.24.2"
+    },
+    "@esbuild/android-x64": {
+      "dependencies": [],
+      "group": "main",
+      "optional": true,
+      "source": "registry",
+      "source_detail": {
+        "cpu": ["x64"],
+        "os": ["android"]
+      },
+      "version": "0.24.2"
+    },
+    "@esbuild/darwin-arm64": {
+      "dependencies": [],
+      "group": "main",
+      "optional": true,
+      "source": "registry",
+      "source_detail": {
+        "cpu": ["arm64"],
+        "os": ["darwin"]
+      },
+      "version": "0.24.2"
+    },
+    "@esbuild/darwin-x64": {
+      "dependencies": [],
+      "group": "main",
+      "optional": true,
+      "source": "registry",
+      "source_detail": {
+        "cpu": ["x64"],
+        "os": ["darwin"]
+      },
+      "version": "0.24.2"
+    },
+    "@esbuild/freebsd-arm64": {
+      "dependencies": [],
+      "group": "main",
+      "optional": true,
+      "source": "registry",
+      "source_detail": {
+        "cpu": ["arm64"],
+        "os": ["freebsd"]
+      },
+      "version": "0.24.2"
+    },
+    "@esbuild/freebsd-x64": {
+      "dependencies": [],
+      "group": "main",
+      "optional": true,
+      "source": "registry",
+      "source_detail": {
+        "cpu": ["x64"],
+        "os": ["freebsd"]
+      },
+      "version": "0.24.2"
+    },
+    "@esbuild/linux-arm": {
+      "dependencies": [],
+      "group": "main",
+      "optional": true,
+      "source": "registry",
+      "source_detail": {
+        "cpu": ["arm"],
+        "os": ["linux"]
+      },
+      "version": "0.24.2"
+    },
+    "@esbuild/linux-arm64": {
+      "dependencies": [],
+      "group": "main",
+      "optional": true,
+      "source": "registry",
+      "source_detail": {
+        "cpu": ["arm64"],
+        "os": ["linux"]
+      },
+      "version": "0.24.2"
+    },
+    "@esbuild/linux-ia32": {
+      "dependencies": [],
+      "group": "main",
+      "optional": true,
+      "source": "registry",
+      "source_detail": {
+        "cpu": ["ia32"],
+        "os": ["linux"]
+      },
+      "version": "0.24.2"
+    },
+    "@esbuild/linux-loong64": {
+      "dependencies": [],
+      "group": "main",
+      "optional": true,
+      "source": "registry",
+      "source_detail": {
+        "cpu": ["loong64"],
+        "os": ["linux"]
+      },
+      "version": "0.24.2"
+    },
+    "@esbuild/linux-mips64el": {
+      "dependencies": [],
+      "group": "main",
+      "optional": true,
+      "source": "registry",
+      "source_detail": {
+        "cpu": ["mips64el"],
+        "os": ["linux"]
+      },
+      "version": "0.24.2"
+    },
+    "@esbuild/linux-ppc64": {
+      "dependencies": [],
+      "group": "main",
+      "optional": true,
+      "source": "registry",
+      "source_detail": {
+        "cpu": ["ppc64"],
+        "os": ["linux"]
+      },
+      "version": "0.24.2"
+    },
+    "@esbuild/linux-riscv64": {
+      "dependencies": [],
+      "group": "main",
+      "optional": true,
+      "source": "registry",
+      "source_detail": {
+        "cpu": ["riscv64"],
+        "os": ["linux"]
+      },
+      "version": "0.24.2"
+    },
+    "@esbuild/linux-s390x": {
+      "dependencies": [],
+      "group": "main",
+      "optional": true,
+      "source": "registry",
+      "source_detail": {
+        "cpu": ["s390x"],
+        "os": ["linux"]
+      },
+      "version": "0.24.2"
+    },
+    "@esbuild/linux-x64": {
+      "dependencies": [],
+      "group": "main",
+      "optional": true,
+      "source": "registry",
+      "source_detail": {
+        "cpu": ["x64"],
+        "os": ["linux"]
+      },
+      "version": "0.24.2"
+    },
+    "@esbuild/netbsd-arm64": {
+      "dependencies": [],
+      "group": "main",
+      "optional": true,
+      "source": "registry",
+      "source_detail": {
+        "cpu": ["arm64"],
+        "os": ["netbsd"]
+      },
+      "version": "0.24.2"
+    },
+    "@esbuild/netbsd-x64": {
+      "dependencies": [],
+      "group": "main",
+      "optional": true,
+      "source": "registry",
+      "source_detail": {
+        "cpu": ["x64"],
+        "os": ["netbsd"]
+      },
+      "version": "0.24.2"
+    },
+    "@esbuild/openbsd-arm64": {
+      "dependencies": [],
+      "group": "main",
+      "optional": true,
+      "source": "registry",
+      "source_detail": {
+        "cpu": ["arm64"],
+        "os": ["openbsd"]
+      },
+      "version": "0.24.2"
+    },
+    "@esbuild/openbsd-x64": {
+      "dependencies": [],
+      "group": "main",
+      "optional": true,
+      "source": "registry",
+      "source_detail": {
+        "cpu": ["x64"],
+        "os": ["openbsd"]
+      },
+      "version": "0.24.2"
+    },
+    "@esbuild/sunos-x64": {
+      "dependencies": [],
+      "group": "main",
+      "optional": true,
+      "source": "registry",
+      "source_detail": {
+        "cpu": ["x64"],
+        "os": ["sunos"]
+      },
+      "version": "0.24.2"
+    },
+    "@esbuild/win32-arm64": {
+      "dependencies": [],
+      "group": "main",
+      "optional": true,
+      "source": "registry",
+      "source_detail": {
+        "cpu": ["arm64"],
+        "os": ["win32"]
+      },
+      "version": "0.24.2"
+    },
+    "@esbuild/win32-ia32": {
+      "dependencies": [],
+      "group": "main",
+      "optional": true,
+      "source": "registry",
+      "source_detail": {
+        "cpu": ["ia32"],
+        "os": ["win32"]
+      },
+      "version": "0.24.2"
+    },
+    "@esbuild/win32-x64": {
+      "dependencies": [],
+      "group": "main",
+      "optional": true,
+      "source": "registry",
+      "source_detail": {
+        "cpu": ["x64"],
+        "os": ["win32"]
+      },
+      "version": "0.24.2"
+    },
+    "esbuild": {
+      "dependencies": [
+        "@esbuild/aix-ppc64",
+        "@esbuild/android-arm",
+        "@esbuild/android-arm64",
+        "@esbuild/android-x64",
+        "@esbuild/darwin-arm64",
+        "@esbuild/darwin-x64",
+        "@esbuild/freebsd-arm64",
+        "@esbuild/freebsd-x64",
+        "@esbuild/linux-arm",
+        "@esbuild/linux-arm64",
+        "@esbuild/linux-ia32",
+        "@esbuild/linux-loong64",
+        "@esbuild/linux-mips64el",
+        "@esbuild/linux-ppc64",
+        "@esbuild/linux-riscv64",
+        "@esbuild/linux-s390x",
+        "@esbuild/linux-x64",
+        "@esbuild/netbsd-arm64",
+        "@esbuild/netbsd-x64",
+        "@esbuild/openbsd-arm64",
+        "@esbuild/openbsd-x64",
+        "@esbuild/sunos-x64",
+        "@esbuild/win32-arm64",
+        "@esbuild/win32-ia32",
+        "@esbuild/win32-x64"
+      ],
+      "group": "main",
+      "optional": false,
+      "source": "registry",
+      "version": "0.24.2"
+    }
+  },
+  "pm": "pnpm",
+  "pm_version_tested": "11",
+  "pm_version_under_test": "11.28.0",
+  "root": {
+    "dependencies": [
+      "esbuild"
+    ],
+    "name": "force-ignore-platform-probe",
+    "version": "1.0.0"
+  },
+  "schema_version": "1.2",
+  "source_file": "pnpm-lock.yaml",
+  "warnings": [
+    "force-ignore-platform=true in .npmrc causes all 25 platform-specific @esbuild/* optional deps to appear in the lockfile unconditionally. Mend should report all of them. If the scan host is not all platforms, Mend must NOT filter these — they come from the lockfile, not node_modules/."
+  ]
+}
